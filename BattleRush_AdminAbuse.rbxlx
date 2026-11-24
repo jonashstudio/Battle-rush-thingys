@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<roblox version="4">
+<Item class="DataModel" referent="RBX0"><Properties><string name="Name">Battle Rush</string></Properties><Item class="Workspace" referent="RBX67B734A49C3F47B9984386091AC04073"><Properties><string name="Name">Workspace</string></Properties><Item class="Model" referent="RBX171B8C532B314462947932EE98762048"><Properties><string name="Name">AdminMap</string><bool name="Archivable">true</bool></Properties><Item class="Part" referent="RBXF2706855505F4C6C97747443139FFA1D"><Properties><string name="Name">ArenaFloor</string><bool name="Anchored">true</bool><bool name="CanCollide">true</bool><Vector3 name="Size"><X>180</X><Y>4</Y><Z>180</Z></Vector3><CoordinateFrame name="CFrame"><X>0</X><Y>0</Y><Z>0</Z><R00>1</R00><R01>0</R01><R02>0</R02><R10>0</R10><R11>1</R11><R12>0</R12><R20>0</R20><R21>0</R21><R22>1</R22></CoordinateFrame><Color3 name="Color"><R>0.21568627450980393</R><G>0.24313725490196078</G><B>0.3058823529411765</B></Color3><string name="Material">Plastic</string><float name="Transparency">0</float><string name="TopSurface">Studs</string><string name="BottomSurface">Inlet</string></Properties></Item><Item class="Part" referent="RBX1208434B8A594E56AF370E91924ACC7C"><Properties><string name="Name">NorthWall</string><bool name="Anchored">true</bool><bool name="CanCollide">true</bool><Vector3 name="Size"><X>180</X><Y>24</Y><Z>5</Z></Vector3><CoordinateFrame name="CFrame"><X>0</X><Y>12</Y><Z>-92</Z><R00>1</R00><R01>0</R01><R02>0</R02><R10>0</R10><R11>1</R11><R12>0</R12><R20>0</R20><R21>0</R21><R22>1</R22></CoordinateFrame><Color3 name="Color"><R>0.13725490196078433</R><G>0.1568627450980392</G><B>0.21568627450980393</B></Color3><string name="Material">Plastic</string><float name="Transparency">0</float><string name="TopSurface">Studs</string><string name="BottomSurface">Inlet</string></Properties></Item><Item class="Part" referent="RBX46797B325DB64AE89A6083B9A5C0BAAE"><Properties><string name="Name">SouthWall</string><bool name="Anchored">true</bool><bool name="CanCollide">true</bool><Vector3 name="Size"><X>180</X><Y>24</Y><Z>5</Z></Vector3><CoordinateFrame name="CFrame"><X>0</X><Y>12</Y><Z>92</Z><R00>1</R00><R01>0</R01><R02>0</R02><R10>0</R10><R11>1</R11><R12>0</R12><R20>0</R20><R21>0</R21><R22>1</R22></CoordinateFrame><Color3 name="Color"><R>0.13725490196078433</R><G>0.1568627450980392</G><B>0.21568627450980393</B></Color3><string name="Material">Plastic</string><float name="Transparency">0</float><string name="TopSurface">Studs</string><string name="BottomSurface">Inlet</string></Properties></Item><Item class="Part" referent="RBX4EBCA447E57B4F898B15B68FF796C4E6"><Properties><string name="Name">EastWall</string><bool name="Anchored">true</bool><bool name="CanCollide">true</bool><Vector3 name="Size"><X>5</X><Y>24</Y><Z>180</Z></Vector3><CoordinateFrame name="CFrame"><X>92</X><Y>12</Y><Z>0</Z><R00>1</R00><R01>0</R01><R02>0</R02><R10>0</R10><R11>1</R11><R12>0</R12><R20>0</R20><R21>0</R21><R22>1</R22></CoordinateFrame><Color3 name="Color"><R>0.13725490196078433</R><G>0.1568627450980392</G><B>0.21568627450980393</B></Color3><string name="Material">Plastic</string><float name="Transparency">0</float><string name="TopSurface">Studs</string><string name="BottomSurface">Inlet</string></Properties></Item><Item class="Part" referent="RBX0FC3D5719AA846079876AF303D0BE5A9"><Properties><string name="Name">WestWall</string><bool name="Anchored">true</bool><bool name="CanCollide">true</bool><Vector3 name="Size"><X>5</X><Y>24</Y><Z>180</Z></Vector3><CoordinateFrame name="CFrame"><X>-92</X><Y>12</Y><Z>0</Z><R00>1</R00><R01>0</R01><R02>0</R02><R10>0</R10><R11>1</R11><R12>0</R12><R20>0</R20><R21>0</R21><R22>1</R22></CoordinateFrame><Color3 name="Color"><R>0.13725490196078433</R><G>0.1568627450980392</G><B>0.21568627450980393</B></Color3><string name="Material">Plastic</string><float name="Transparency">0</float><string name="TopSurface">Studs</string><string name="BottomSurface">Inlet</string></Properties></Item><Item class="Part" referent="RBXB3937A396FED412AA083A1B289B07089"><Properties><string name="Name">StudPillar1</string><bool name="Anchored">true</bool><bool name="CanCollide">true</bool><Vector3 name="Size"><X>10</X><Y>20</Y><Z>10</Z></Vector3><CoordinateFrame name="CFrame"><X>62.0</X><Y>12</Y><Z>0.0</Z><R00>1</R00><R01>0</R01><R02>0</R02><R10>0</R10><R11>1</R11><R12>0</R12><R20>0</R20><R21>0</R21><R22>1</R22></CoordinateFrame><Color3 name="Color"><R>0.37254901960784315</R><G>0.29411764705882354</G><B>0.5686274509803921</B></Color3><string name="Material">Plastic</string><float name="Transparency">0</float><string name="TopSurface">Studs</string><string name="BottomSurface">Inlet</string></Properties></Item><Item class="Part" referent="RBX1CC57D121C9B43ACBB66FF61E170032E"><Properties><string name="Name">StudPillar2</string><bool name="Anchored">true</bool><bool name="CanCollide">true</bool><Vector3 name="Size"><X>10</X><Y>20</Y><Z>10</Z></Vector3><CoordinateFrame name="CFrame"><X>0.0</X><Y>12</Y><Z>62.0</Z><R00>1</R00><R01>0</R01><R02>0</R02><R10>0</R10><R11>1</R11><R12>0</R12><R20>0</R20><R21>0</R21><R22>1</R22></CoordinateFrame><Color3 name="Color"><R>0.37254901960784315</R><G>0.29411764705882354</G><B>0.5686274509803921</B></Color3><string name="Material">Plastic</string><float name="Transparency">0</float><string name="TopSurface">Studs</string><string name="BottomSurface">Inlet</string></Properties></Item><Item class="Part" referent="RBXFC3739DCAEC24C0AB5E365A82E46E4AD"><Properties><string name="Name">StudPillar3</string><bool name="Anchored">true</bool><bool name="CanCollide">true</bool><Vector3 name="Size"><X>10</X><Y>20</Y><Z>10</Z></Vector3><CoordinateFrame name="CFrame"><X>-62.0</X><Y>12</Y><Z>0.0</Z><R00>1</R00><R01>0</R01><R02>0</R02><R10>0</R10><R11>1</R11><R12>0</R12><R20>0</R20><R21>0</R21><R22>1</R22></CoordinateFrame><Color3 name="Color"><R>0.37254901960784315</R><G>0.29411764705882354</G><B>0.5686274509803921</B></Color3><string name="Material">Plastic</string><float name="Transparency">0</float><string name="TopSurface">Studs</string><string name="BottomSurface">Inlet</string></Properties></Item><Item class="Part" referent="RBX4AD799F8FF6943AC8BEAE7F4C95E798A"><Properties><string name="Name">StudPillar4</string><bool name="Anchored">true</bool><bool name="CanCollide">true</bool><Vector3 name="Size"><X>10</X><Y>20</Y><Z>10</Z></Vector3><CoordinateFrame name="CFrame"><X>-0.0</X><Y>12</Y><Z>-62.0</Z><R00>1</R00><R01>0</R01><R02>0</R02><R10>0</R10><R11>1</R11><R12>0</R12><R20>0</R20><R21>0</R21><R22>1</R22></CoordinateFrame><Color3 name="Color"><R>0.37254901960784315</R><G>0.29411764705882354</G><B>0.5686274509803921</B></Color3><string name="Material">Plastic</string><float name="Transparency">0</float><string name="TopSurface">Studs</string><string name="BottomSurface">Inlet</string></Properties></Item><Item class="Part" referent="RBX9110B96800534E68BD9EA6E26685DABC"><Properties><string name="Name">CenterPlatform</string><bool name="Anchored">true</bool><bool name="CanCollide">true</bool><Vector3 name="Size"><X>28</X><Y>2</Y><Z>28</Z></Vector3><CoordinateFrame name="CFrame"><X>0</X><Y>4</Y><Z>0</Z><R00>1</R00><R01>0</R01><R02>0</R02><R10>0</R10><R11>1</R11><R12>0</R12><R20>0</R20><R21>0</R21><R22>1</R22></CoordinateFrame><Color3 name="Color"><R>0.45098039215686275</R><G>0.3137254901960784</G><B>0.7058823529411765</B></Color3><string name="Material">Plastic</string><float name="Transparency">0</float><string name="TopSurface">Studs</string><string name="BottomSurface">Inlet</string></Properties></Item><Item class="Folder" referent="RBXCC6BCD6569164B31B638FFBD59DF6FC9"><Properties><string name="Name">Spawns</string></Properties><Item class="Part" referent="RBXA5465CEFCCE94C96BC29A056A22FF506"><Properties><string name="Name">Spawn1</string><bool name="Anchored">true</bool><bool name="CanCollide">true</bool><Vector3 name="Size"><X>9</X><Y>1</Y><Z>9</Z></Vector3><CoordinateFrame name="CFrame"><X>48.0</X><Y>3</Y><Z>0.0</Z><R00>1</R00><R01>0</R01><R02>0</R02><R10>0</R10><R11>1</R11><R12>0</R12><R20>0</R20><R21>0</R21><R22>1</R22></CoordinateFrame><Color3 name="Color"><R>0.35294117647058826</R><G>0.6666666666666666</G><B>1.0</B></Color3><string name="Material">Neon</string><float name="Transparency">0.15</float><string name="TopSurface">Studs</string><string name="BottomSurface">Inlet</string></Properties></Item><Item class="Part" referent="RBX0D926F07C3C64DB9B32561178B3A13A8"><Properties><string name="Name">Spawn2</string><bool name="Anchored">true</bool><bool name="CanCollide">true</bool><Vector3 name="Size"><X>9</X><Y>1</Y><Z>9</Z></Vector3><CoordinateFrame name="CFrame"><X>33.941</X><Y>3</Y><Z>33.941</Z><R00>1</R00><R01>0</R01><R02>0</R02><R10>0</R10><R11>1</R11><R12>0</R12><R20>0</R20><R21>0</R21><R22>1</R22></CoordinateFrame><Color3 name="Color"><R>0.35294117647058826</R><G>0.6666666666666666</G><B>1.0</B></Color3><string name="Material">Neon</string><float name="Transparency">0.15</float><string name="TopSurface">Studs</string><string name="BottomSurface">Inlet</string></Properties></Item><Item class="Part" referent="RBX093AB0D072914984892AB1B946DE2CE0"><Properties><string name="Name">Spawn3</string><bool name="Anchored">true</bool><bool name="CanCollide">true</bool><Vector3 name="Size"><X>9</X><Y>1</Y><Z>9</Z></Vector3><CoordinateFrame name="CFrame"><X>0.0</X><Y>3</Y><Z>48.0</Z><R00>1</R00><R01>0</R01><R02>0</R02><R10>0</R10><R11>1</R11><R12>0</R12><R20>0</R20><R21>0</R21><R22>1</R22></CoordinateFrame><Color3 name="Color"><R>0.35294117647058826</R><G>0.6666666666666666</G><B>1.0</B></Color3><string name="Material">Neon</string><float name="Transparency">0.15</float><string name="TopSurface">Studs</string><string name="BottomSurface">Inlet</string></Properties></Item><Item class="Part" referent="RBX15B0C367C30345E5A055E58DE8540CCA"><Properties><string name="Name">Spawn4</string><bool name="Anchored">true</bool><bool name="CanCollide">true</bool><Vector3 name="Size"><X>9</X><Y>1</Y><Z>9</Z></Vector3><CoordinateFrame name="CFrame"><X>-33.941</X><Y>3</Y><Z>33.941</Z><R00>1</R00><R01>0</R01><R02>0</R02><R10>0</R10><R11>1</R11><R12>0</R12><R20>0</R20><R21>0</R21><R22>1</R22></CoordinateFrame><Color3 name="Color"><R>0.35294117647058826</R><G>0.6666666666666666</G><B>1.0</B></Color3><string name="Material">Neon</string><float name="Transparency">0.15</float><string name="TopSurface">Studs</string><string name="BottomSurface">Inlet</string></Properties></Item><Item class="Part" referent="RBX5D8328B69F604EC4845972B02897E214"><Properties><string name="Name">Spawn5</string><bool name="Anchored">true</bool><bool name="CanCollide">true</bool><Vector3 name="Size"><X>9</X><Y>1</Y><Z>9</Z></Vector3><CoordinateFrame name="CFrame"><X>-48.0</X><Y>3</Y><Z>0.0</Z><R00>1</R00><R01>0</R01><R02>0</R02><R10>0</R10><R11>1</R11><R12>0</R12><R20>0</R20><R21>0</R21><R22>1</R22></CoordinateFrame><Color3 name="Color"><R>0.35294117647058826</R><G>0.6666666666666666</G><B>1.0</B></Color3><string name="Material">Neon</string><float name="Transparency">0.15</float><string name="TopSurface">Studs</string><string name="BottomSurface">Inlet</string></Properties></Item><Item class="Part" referent="RBX119849979BA748E4A74359C6D60FAD64"><Properties><string name="Name">Spawn6</string><bool name="Anchored">true</bool><bool name="CanCollide">true</bool><Vector3 name="Size"><X>9</X><Y>1</Y><Z>9</Z></Vector3><CoordinateFrame name="CFrame"><X>-33.941</X><Y>3</Y><Z>-33.941</Z><R00>1</R00><R01>0</R01><R02>0</R02><R10>0</R10><R11>1</R11><R12>0</R12><R20>0</R20><R21>0</R21><R22>1</R22></CoordinateFrame><Color3 name="Color"><R>0.35294117647058826</R><G>0.6666666666666666</G><B>1.0</B></Color3><string name="Material">Neon</string><float name="Transparency">0.15</float><string name="TopSurface">Studs</string><string name="BottomSurface">Inlet</string></Properties></Item><Item class="Part" referent="RBX3C046D36E2C44C0CAC4BA00A18A6CB36"><Properties><string name="Name">Spawn7</string><bool name="Anchored">true</bool><bool name="CanCollide">true</bool><Vector3 name="Size"><X>9</X><Y>1</Y><Z>9</Z></Vector3><CoordinateFrame name="CFrame"><X>-0.0</X><Y>3</Y><Z>-48.0</Z><R00>1</R00><R01>0</R01><R02>0</R02><R10>0</R10><R11>1</R11><R12>0</R12><R20>0</R20><R21>0</R21><R22>1</R22></CoordinateFrame><Color3 name="Color"><R>0.35294117647058826</R><G>0.6666666666666666</G><B>1.0</B></Color3><string name="Material">Neon</string><float name="Transparency">0.15</float><string name="TopSurface">Studs</string><string name="BottomSurface">Inlet</string></Properties></Item><Item class="Part" referent="RBXA9F79408A7F9497AB5E606E997AA6144"><Properties><string name="Name">Spawn8</string><bool name="Anchored">true</bool><bool name="CanCollide">true</bool><Vector3 name="Size"><X>9</X><Y>1</Y><Z>9</Z></Vector3><CoordinateFrame name="CFrame"><X>33.941</X><Y>3</Y><Z>-33.941</Z><R00>1</R00><R01>0</R01><R02>0</R02><R10>0</R10><R11>1</R11><R12>0</R12><R20>0</R20><R21>0</R21><R22>1</R22></CoordinateFrame><Color3 name="Color"><R>0.35294117647058826</R><G>0.6666666666666666</G><B>1.0</B></Color3><string name="Material">Neon</string><float name="Transparency">0.15</float><string name="TopSurface">Studs</string><string name="BottomSurface">Inlet</string></Properties></Item></Item></Item></Item><Item class="ServerScriptService" referent="RBX812D20B2809E4317BEE09AB5A1B4C7BE"><Properties><string name="Name">ServerScriptService</string></Properties><Item class="Script" referent="RBXBB3477F39029477CA4508CC167B26B72"><Properties><string name="Name">AdminAbuseServer</string><bool name="Disabled">false</bool><string name="Source">-- Battle Rush Admin Abuse ServerScript
+-- Put in ServerScriptService. Replace the example UserId with your Roblox UserId.
+-- This package does not edit or replace your Strawberry/weather/boss scripts.
+local Players = game:GetService("Players")
+local RS = game:GetService("ReplicatedStorage")
+local TweenService = game:GetService("TweenService")
+local Debris = game:GetService("Debris")
+local ADMIN_USER_IDS = {[123456789] = true} -- REPLACE THIS ID
+local DAMAGE = 25
+local rng = Random.new()
+local active, token = false, 0
+
+local function remote(className, name)
+    local x = RS:FindFirstChild(name)
+    if x and x.ClassName == className then return x end
+    if x then x:Destroy() end
+    x = Instance.new(className); x.Name = name; x.Parent = RS
+    return x
+end
+local AdminRemote = remote("RemoteFunction", "AdminRemote")
+local Announce = remote("RemoteEvent", "AdminAnnounce")
+local State = remote("RemoteEvent", "BR_AbuseState")
+local function admin(p) return ADMIN_USER_IDS[p.UserId] == true end
+local function setAdmin(p) p:SetAttribute("IsAdmin", admin(p)) end
+Players.PlayerAdded:Connect(setAdmin)
+for _,p in ipairs(Players:GetPlayers()) do setAdmin(p) end
+
+local function spawns()
+    local f = workspace:FindFirstChild("AdminMap")
+    f = f and f:FindFirstChild("Spawns")
+    local t = {}
+    if f then for _,v in ipairs(f:GetChildren()) do if v:IsA("BasePart") then table.insert(t,v) end end end
+    return t
+end
+local function teleport(p)
+    local t = spawns()
+    if #t == 0 then return false end
+    local c = p.Character
+    local r = c and c:FindFirstChild("HumanoidRootPart")
+    if not r then return false end
+    r.CFrame = t[rng:NextInteger(1,#t)].CFrame + Vector3.new(0,5,0)
+    return true
+end
+local function damageAt(pos, radius, amount)
+    for _,p in ipairs(Players:GetPlayers()) do
+        local c = p.Character
+        local h = c and c:FindFirstChildOfClass("Humanoid")
+        local r = c and c:FindFirstChild("HumanoidRootPart")
+        if h and r and h.Health &gt; 0 and (r.Position-pos).Magnitude &lt;= radius then h:TakeDamage(amount) end
+    end
+end
+local function warning(pos, radius, seconds)
+    local p = Instance.new("Part")
+    p.Name="AdminEventWarning"; p.Shape=Enum.PartType.Cylinder
+    p.Size=Vector3.new(.3,radius*2,radius*2)
+    p.CFrame=CFrame.new(pos.X,pos.Y+.3,pos.Z)*CFrame.Angles(0,0,math.rad(90))
+    p.Anchored=true; p.CanCollide=false; p.Material=Enum.Material.Neon
+    p.Color=Color3.fromRGB(255,65,55); p.Transparency=.3; p.Parent=workspace
+    Debris:AddItem(p,seconds+1)
+end
+local function meteor()
+    local t=spawns(); if #t==0 then return end
+    local pos=t[rng:NextInteger(1,#t)].Position+Vector3.new(rng:NextNumber(-40,40),0,rng:NextNumber(-40,40))
+    warning(pos,16,2)
+    task.wait(2)
+    local m=Instance.new("Part"); m.Name="AdminMeteor"; m.Shape=Enum.PartType.Ball
+    m.Size=Vector3.new(7,7,7); m.Anchored=true; m.CanCollide=false
+    m.Material=Enum.Material.Neon; m.Color=Color3.fromRGB(255,110,30)
+    m.Position=pos+Vector3.new(0,85,0); m.Parent=workspace
+    TweenService:Create(m,TweenInfo.new(.4),{Position=pos+Vector3.new(0,2,0)}):Play()
+    task.wait(.4); damageAt(pos,16,DAMAGE); Debris:AddItem(m,.2)
+end
+local function shockwave()
+    local t=spawns(); if #t==0 then return end
+    local pos=t[rng:NextInteger(1,#t)].Position
+    for radius=12,60,12 do
+        local ring=Instance.new("Part"); ring.Name="AdminShockwave"; ring.Shape=Enum.PartType.Cylinder
+        ring.Size=Vector3.new(.5,radius*2,radius*2)
+        ring.CFrame=CFrame.new(pos+Vector3.new(0,1,0))*CFrame.Angles(0,0,math.rad(90))
+        ring.Anchored=true; ring.CanCollide=false; ring.Material=Enum.Material.Neon
+        ring.Color=Color3.fromRGB(160,90,255); ring.Parent=workspace; Debris:AddItem(ring,.3)
+        damageAt(pos,radius,7); task.wait(.18)
+    end
+end
+local function lavaPulse()
+    local t=spawns(); if #t==0 then return end
+    local pos=t[rng:NextInteger(1,#t)].Position
+    warning(pos,18,1.7); task.wait(1.7); damageAt(pos,18,18)
+end
+local EVENTS={["Meteor Shower"]=meteor,["Shockwave"]=shockwave,["Lava Pulse"]=lavaPulse}
+local function start()
+    if active then return false,"Admin Abuse is already active." end
+    if #spawns()==0 then return false,"AdminMap.Spawns is missing." end
+    active=true; token+=1; local myToken=token
+    for _,p in ipairs(Players:GetPlayers()) do teleport(p) end
+    State:FireAllClients("Started")
+    task.spawn(function()
+        while active and token==myToken do
+            local names={"Meteor Shower","Shockwave","Lava Pulse"}
+            local name=names[rng:NextInteger(1,#names)]
+            State:FireAllClients("Event",name)
+            pcall(EVENTS[name])
+            task.wait(rng:NextNumber(3,5))
+        end
+    end)
+    task.delay(120,function() if active and token==myToken then active=false; State:FireAllClients("Ended") end end)
+    return true,"Admin Abuse Fight started!"
+end
+local function stop()
+    if not active then return false,"Admin Abuse is not active." end
+    active=false; token+=1; State:FireAllClients("Ended")
+    return true,"Admin Abuse Fight ended."
+end
+AdminRemote.OnServerInvoke=function(p,cmd,target,value)
+    if not admin(p) then return false,"Not authorized." end
+    if cmd=="StartAbuse" or cmd=="StartAdminAbuse" then return start()
+    elseif cmd=="StopAbuse" or cmd=="EndAdminAbuse" then return stop()
+    elseif cmd=="TeleportToAbuseMap" then return teleport(p),"Teleported to AdminMap."
+    elseif cmd=="TeleportAllToAbuseMap" then
+        local n=0; for _,x in ipairs(Players:GetPlayers()) do if teleport(x) then n+=1 end end
+        return true,"Teleported "..n.." players."
+    elseif cmd=="StartEvent" then
+        if not active then return false,"Start Admin Abuse first." end
+        if not EVENTS[value] then return false,"Unknown event." end
+        State:FireAllClients("Event",value); task.spawn(EVENTS[value]); return true,value.." started."
+    elseif cmd=="Announcement" or cmd=="Announce" then
+        local msg=tostring(value or ""):sub(1,180)
+        if msg=="" then return false,"Enter a message." end
+        Announce:FireAllClients(p.Name,p.UserId,msg); return true,"Announcement sent."
+    end
+    return false,"Command is not part of this Admin Abuse package."
+end
+</string></Properties></Item></Item><Item class="StarterPlayer" referent="RBX615881E0078A4572A46005D04A7019E4"><Properties><string name="Name">StarterPlayer</string></Properties><Item class="StarterPlayerScripts" referent="RBXA2318210DFFD44E598214B21DBE6CEC2"><Properties><string name="Name">StarterPlayerScripts</string></Properties><Item class="LocalScript" referent="RBX6965CE34582A48DA844A7DEE3D41A014"><Properties><string name="Name">AdminAbuseClient</string><bool name="Disabled">false</bool><string name="Source">-- Battle Rush Admin Abuse client controls. Put in StarterPlayerScripts.
+local Players=game:GetService("Players")
+local RS=game:GetService("ReplicatedStorage")
+local p=Players.LocalPlayer
+local remote=RS:WaitForChild("AdminRemote")
+local state=RS:WaitForChild("BR_AbuseState")
+local gui=Instance.new("ScreenGui"); gui.Name="BR_AbuseControls"; gui.ResetOnSpawn=false; gui.Parent=p:WaitForChild("PlayerGui")
+local function round(x) local c=Instance.new("UICorner"); c.CornerRadius=UDim.new(0,9); c.Parent=x end
+local toggle=Instance.new("TextButton"); toggle.Size=UDim2.fromOffset(120,40); toggle.Position=UDim2.new(1,-136,0,15)
+toggle.Text="⚡ ADMIN ABUSE"; toggle.Font=Enum.Font.GothamBold; toggle.TextSize=12; toggle.TextColor3=Color3.new(1,1,1)
+toggle.BackgroundColor3=Color3.fromRGB(125,75,230); toggle.Parent=gui; round(toggle)
+local panel=Instance.new("Frame"); panel.Size=UDim2.fromOffset(245,205); panel.Position=UDim2.new(1,-260,0,62)
+panel.BackgroundColor3=Color3.fromRGB(25,28,39); panel.Visible=false; panel.Parent=gui; round(panel)
+local st=Instance.new("UIStroke"); st.Color=Color3.fromRGB(145,95,255); st.Thickness=2; st.Parent=panel
+local title=Instance.new("TextLabel"); title.Size=UDim2.new(1,-12,0,34); title.Position=UDim2.fromOffset(6,4)
+title.BackgroundTransparency=1; title.Text="ADMIN ABUSE CONTROL"; title.TextColor3=Color3.new(1,1,1)
+title.Font=Enum.Font.GothamBlack; title.TextSize=15; title.Parent=panel
+local function button(text,y,color,fn)
+ local b=Instance.new("TextButton"); b.Size=UDim2.new(1,-16,0,34); b.Position=UDim2.fromOffset(8,y)
+ b.Text=text; b.Font=Enum.Font.GothamBold; b.TextSize=12; b.TextColor3=Color3.new(1,1,1)
+ b.BackgroundColor3=color; b.Parent=panel; round(b); b.Activated:Connect(fn)
+end
+local function call(cmd,val)
+ local ok,msg=remote:InvokeServer(cmd,"ME",val); title.Text=(ok and "✓ " or "⚠ ")..tostring(msg)
+end
+button("START ADMIN ABUSE",43,Color3.fromRGB(125,75,230),function() call("StartAbuse") end)
+button("STOP ADMIN ABUSE",82,Color3.fromRGB(190,65,75),function() call("StopAbuse") end)
+button("METEOR SHOWER",121,Color3.fromRGB(220,115,40),function() call("StartEvent","Meteor Shower") end)
+button("SEND EVERYONE TO MAP",160,Color3.fromRGB(55,140,190),function() call("TeleportAllToAbuseMap") end)
+toggle.Activated:Connect(function() if p:GetAttribute("IsAdmin") then panel.Visible=not panel.Visible end end)
+local banner=Instance.new("TextLabel"); banner.Size=UDim2.fromOffset(330,42); banner.Position=UDim2.new(.5,-165,0,65)
+banner.BackgroundColor3=Color3.fromRGB(40,30,55); banner.TextColor3=Color3.new(1,1,1)
+banner.Font=Enum.Font.GothamBlack; banner.TextSize=16; banner.Visible=false; banner.Parent=gui; round(banner)
+state.OnClientEvent:Connect(function(action,value)
+ if action=="Started" then banner.Text="⚡ ADMIN ABUSE FIGHT STARTED"; banner.Visible=true
+ elseif action=="Ended" then banner.Text="ADMIN ABUSE ENDED"; task.delay(2,function() banner.Visible=false end)
+ elseif action=="Event" then banner.Text="EVENT: "..tostring(value); banner.Visible=true end
+end)
+local function refresh()
+ local a=p:GetAttribute("IsAdmin")==true; toggle.Visible=a; if not a then panel.Visible=false end
+end
+p:GetAttributeChangedSignal("IsAdmin"):Connect(refresh); refresh()
+</string></Properties></Item></Item></Item></Item></roblox>
